@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fe0fd577.css",
+    "main.js": "/static/js/main.44499384.js",
+    "static/media/owner.jpg": "/static/media/owner.334d013bf19b33e02494.jpg",
+    "static/media/ethlogo.png": "/static/media/ethlogo.e933df8040b5b6ce4fda.png",
+    "index.html": "/index.html",
+    "main.fe0fd577.css.map": "/static/css/main.fe0fd577.css.map",
+    "main.44499384.js.map": "/static/js/main.44499384.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe0fd577.css",
+    "static/js/main.44499384.js"
+  ]
+}
